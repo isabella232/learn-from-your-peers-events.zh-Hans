@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # [!DNL Experience Makers - Learn from your peers] {#overview}
 
-&lt;!— <img alt="Experience Maker向您的同行学习" src="./assets/skill-exchange.png" /> --->
+<!-- <img alt="Experience Maker向您的同行学习" src="./assets/skill-exchange.png" /> --->
 
 向Adobe专家和同行了解如何从您的Adobe解决方案中获得最大价值。 为从业者选择了主题， _by_ 实际使用者，这些交互式会议将共享“可能的艺术”用例、最佳实践以及提示和技巧。
 
