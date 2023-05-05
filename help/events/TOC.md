@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: “录音集，来自 [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 7f16686c5832a2815e4a85fd38cf35752757586f
+source-git-commit: 112c25b593e5d3569dedc99b36237b92494d8a44
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 22%
+source-wordcount: '67'
+ht-degree: 20%
 
 ---
 
@@ -29,5 +29,7 @@ ht-degree: 22%
       +  年 3 月{#mar2022}
          + [用数据讲述有影响力的故事](analytics/mar2022/stories-with-data.md)
 + Marketo {#marketo}
+   +  年 5 月{#may2023}
+      + [使用Marketo Engage打破大规模代码个性化](marketo/may2023/personalization-at-scale.md)
    +  年 3 月{#mar2023}
       + [如何使 [!DNL Adobe Marketo Engage] 内容可缩放](marketo/mar2023/templates-tokens-teamwork.md)
