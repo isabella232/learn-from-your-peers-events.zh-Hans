@@ -8,9 +8,9 @@ doc-type: Event
 last-substantial-update: 2023-05-05T00:00:00Z
 jira: KT-13214
 thumbnail: 3419133.jpeg
-source-git-commit: 112c25b593e5d3569dedc99b36237b92494d8a44
+source-git-commit: 2a3677dfebbe9a1edfce7d3c03bf921525a57bd7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
