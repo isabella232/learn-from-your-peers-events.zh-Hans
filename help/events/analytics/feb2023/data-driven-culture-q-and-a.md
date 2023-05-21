@@ -1,21 +1,21 @@
 ---
-title: '"[!DNL Adobe Analytics] 构建数据驱动文化跟进问答”'
-description: 在 [!DNL Adobe Analytics] 构建数据驱动文化网络研讨会， [!DNL Adobe Analytics] 全球用户。 由于 [!DNL Adobe Analytics] Champion在实时问答期间无法回答所有这些问题，我们带他们回来，主持了后续问答会，回答您的问题，并分享了更多的专家知识。
+title: '''[!DNL Adobe Analytics] 建立資料導向文化跟進問答'
+description: 期間 [!DNL Adobe Analytics] 建立資料導向文化網路研討會，共有超過35個問題受到下列人士的提問： [!DNL Adobe Analytics] 全球使用者。 由於我們的 [!DNL Adobe Analytics] Champion無法在即時問答中回答所有這些問題，我們將其帶回並託管後續問答環節來回答您的問題，並分享更多專業知識。
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-16T00:00:00Z
 jira: KT-11881
 thumbnail: 3415614.jpeg
-source-git-commit: 665f73494d34266d2f581d701b400aae96405b9b
+exl-id: bb36d86e-d63d-4a46-847e-f38ad8dc7eb2
+source-git-commit: 9ac872c8f56dc25207ce0537acf007f6ea2a9a7c
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
+# [!DNL Adobe Analytics] 建立資料導向型文化後續問答
 
-# [!DNL Adobe Analytics] 构建数据驱动文化跟进问答
-
-在 [!DNL Adobe Analytics] 构建数据驱动文化网络研讨会， [!DNL Adobe Analytics] 全球用户。 由于 [!DNL Adobe Analytics] Champion在实时问答期间无法回答所有这些问题，我们带他们回来，主持了后续问答会，回答您的问题，并分享了更多的专家知识。
+期間 [!DNL Adobe Analytics] 建立資料導向文化網路研討會，共有超過35個問題受到下列人士的提問： [!DNL Adobe Analytics] 全球使用者。 由於我們的 [!DNL Adobe Analytics] Champion無法在即時問答中回答所有這些問題，我們將其帶回並託管後續問答環節來回答您的問題，並分享更多專業知識。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Experience Makers - Learn from your peers]'
-description: “向Adobe专家和同行了解如何从您的Adobe解决方案中获得最大价值。 [!DNL Experience Makers - Learn from your peers] 是一系列全球虚拟客户学习活动，专注于深入挖掘 [!DNL Adobe Experience Cloud] 解决方案。
+description: 「向Adobe專家和同行學習如何從Adobe解決方案中獲得最大效益。 [!DNL Experience Makers - Learn from your peers] 是虛擬客戶學習活動的全球系列，專注於深入瞭解 [!DNL Adobe Experience Cloud] 解決方案。」
 exl-id: 464fcf6a-e215-464e-8888-43ebebc261c3
 source-git-commit: 7f16686c5832a2815e4a85fd38cf35752757586f
 workflow-type: tm+mt
@@ -11,10 +11,10 @@ ht-degree: 0%
 
 # [!DNL Experience Makers - Learn from your peers] {#overview}
 
-<!-- <img alt="Experience Maker向您的同行学习" src="./assets/skill-exchange.png" /> --->
+&lt;!— <img alt="體驗製作者向同業學習" src="./assets/skill-exchange.png" /> --->
 
-向Adobe专家和同行了解如何从您的Adobe解决方案中获得最大价值。 为从业者选择了主题， _by_ 实际使用者，这些交互式会议将共享“可能的艺术”用例、最佳实践以及提示和技巧。
+向Adobe專家和同行學習如何充分利用您的Adobe解決方案。 選擇適用於從業者的主題， _作者：_ 這些互動式會議從業者可分享「各種可能性」的使用案例、最佳實務和秘訣與技巧。
 
 >[!TIP]
 >
->**所有录制的会话都列在左侧的导航中**.
+>**左側導覽中會列出所有錄製的工作階段**.

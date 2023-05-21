@@ -1,6 +1,6 @@
 ---
-title: 模板、令牌和团队合作 — 使内容可缩放
-description: 了解如何在 [!DNL Marketo Engage]. 了解如何从现有内容库中获取最大价值的提示。
+title: 範本、代號和團隊合作 — 讓您的內容可擴充
+description: 瞭解如何在中使用權杖和範本 [!DNL Marketo Engage]. 探索善用現有內容庫的秘訣。
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -8,23 +8,23 @@ solution: Marketo Engage
 last-substantial-update: 2023-03-03T00:00:00Z
 jira: KT-12415
 thumbnail: 3416250.jpeg
-source-git-commit: d48d7708a03ec228d0ef09953fcfbca92dacabb8
+exl-id: 918aac13-6a47-43cf-80d6-19d08eae6c08
+source-git-commit: c622835c7960f8333201e1cf0c6c55b17dae8dc2
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 1%
 
 ---
 
+# 範本、代號和團隊合作 — 製作您的Adobe [!DNL Marketo Engage] 內容可擴充
 
-# 模板、令牌和团队合作 — 让您的Adobe [!DNL Marketo Engage] 内容可缩放
-
-为营销项目创建内容是一项长期任务。 应用模板和令牌可帮助您跨团队构建可扩展的流程，并在 [!DNL Marketo Engage]. 听取Lauren McCormack的意见，他是屡获殊荣的营销领袖，是2倍的Adobe [!DNL Marketo Engage] 冠军，她和你分享了多年的智慧 [!DNL Marketo Engage] 内容可缩放。
+為行銷方案建立內容是一項長期工程。 套用範本和代號可協助您跨團隊建立可擴充的流程，並且以較少的資源完成更多工作 [!DNL Marketo Engage]. 聆聽獲獎行銷主管Lauren McCormack和2xAdobe的意見 [!DNL Marketo Engage] Champion — 分享她多年智慧創造您的 [!DNL Marketo Engage] 內容可擴充。
 
 了解:
 
-* 使用令牌和模板更高效地构建程序
-* 如何充分利用现有内容库的提示
-* 优化营销活动请求流程的最佳实践
-* 有效的沟通策略，使您的内部团队与内容策略保持一致
+* 使用權杖和範本來更有效率地建置計畫
+* 善用現有內容庫的秘訣
+* 簡化行銷活動請求流程的最佳實務
+* 有效的溝通策略，讓您的內部團隊與內容策略一致
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416250/?quality=12&learn=on)

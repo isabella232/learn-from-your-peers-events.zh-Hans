@@ -1,21 +1,21 @@
 ---
-title: '"[!DNL Adobe Analytics] 构建数据驱动型文化”'
-description: 加入 [!DNL Adobe Analytics] 奇泰·本 — 阿米在讨论数据驱动型文化的外观时分享了使用策略 [!DNL Adobe Analytics] 来构建一个。
+title: '''[!DNL Adobe Analytics] 建立資料導向文化'
+description: 加入 [!DNL Adobe Analytics] 冠軍Gitai Ben-Ammi將討論資料導向的文化是什麼樣子，並分享使用的策略 [!DNL Adobe Analytics] 以建置一個。
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
 kt: 11836
 thumbnail: 3414131.jpeg
-source-git-commit: 665f73494d34266d2f581d701b400aae96405b9b
+exl-id: 4dff4c71-cf8e-47da-8cf4-a2bb349d58fd
+source-git-commit: 9ac872c8f56dc25207ce0537acf007f6ea2a9a7c
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
+# 建立資料導向文化
 
-# 构建数据驱动型文化
-
-加入 [!DNL Adobe Analytics] 奇泰·本 — 阿米在讨论数据驱动型文化的外观时分享了使用策略 [!DNL Adobe Analytics] 来构建一个。
+加入 [!DNL Adobe Analytics] 冠軍Gitai Ben-Ammi將討論資料導向的文化是什麼樣子，並分享使用的策略 [!DNL Adobe Analytics] 以建置一個。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414131/?quality=12&learn=on)

@@ -1,21 +1,21 @@
 ---
-title: '"[!DNL Adobe Analytics] 文档任务可能”'
-description: 观看此会议，了解为什么文档对成功至关重要、最佳实践、提示和技巧，以及您可以采用的几种方法来记录您的 [!DNL Adobe Analytics] 实例。 2022 年 6 月
+title: '[!DNL Adobe Analytics] 檔案任務的可能'
+description: 觀看此會議，瞭解檔案為何對成功至關重要、最佳實務、提示和訣竅，以及您可採取的一些檔案化方法。 [!DNL Adobe Analytics] 執行個體。 2022 年 6 月
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
 kt: 11847
 thumbnail: 3414194.jpeg
-source-git-commit: de5167f4fbef67fd9328349b096a96575590dd97
+exl-id: b4c02a65-012f-4e1d-9b35-dd931120b229
+source-git-commit: 9ac872c8f56dc25207ce0537acf007f6ea2a9a7c
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 1%
 
 ---
 
+# [!DNL Adobe Analytics] 可能的檔案任務
 
-# [!DNL Adobe Analytics] 可能的文档任务
-
-观看此会议，了解为什么文档对成功至关重要、最佳实践、提示和技巧，以及您可以采用的几种方法来记录您的 [!DNL Adobe Analytics] 实例。
+觀看此會議，瞭解檔案為何對成功至關重要、最佳實務、提示和訣竅，以及您可採取的一些檔案化方法。 [!DNL Adobe Analytics] 執行個體。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414194/?quality=12&learn=on)

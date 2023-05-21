@@ -1,6 +1,6 @@
 ---
 title: 用数据讲述有影响力的故事
-description: 加入 [!DNL Adobe Analytics] Amy Ard是Champion Amy Ard的创始人，她解释了艺术和科学如何能够结合在一起，讲述一个有力的故事，并帮助您的公司做出数据驱动的决策。
+description: 加入 [!DNL Adobe Analytics] 冠軍Amy Ard，解釋藝術和科學如何共同訴說精彩的故事，並幫助您的公司做出資料導向式決策。
 solution: Analytics
 role: User
 doc-type: Event
@@ -17,6 +17,6 @@ ht-degree: 11%
 
 # 用数据讲述有影响力的故事
 
-数据是组织可以依赖的最强大工具之一，但只有在以对决策者至关重要的方式呈现数据时，数据才是这种工具。 加入 [!DNL Adobe Analytics] Amy Ard是Champion Amy Ard的创始人，她解释了艺术和科学如何能够结合在一起，讲述一个有力的故事，并帮助您的公司做出数据驱动的决策。
+資料是組織可以依賴的最強大工具之一，但前提是資料以對決策者而言重要的方式呈現。 加入 [!DNL Adobe Analytics] 冠軍Amy Ard，解釋藝術和科學如何共同訴說精彩的故事，並幫助您的公司做出資料導向式決策。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342096/?quality=12&learn=on)
